@@ -21,7 +21,33 @@
  
 <img width="450" alt="image" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/69b0a979-afd8-4315-a5a1-a92c3ea898cc">
 
- ---
+---
+
+<table width="100%">
+  <tr>
+    <td>
+      <img width="695" alt="Screen Shot 2024-04-29 at 9 28 11 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/6927ee0a-7b36-424c-8320-80e1aba33ade">
+<img width="277" alt="Screen Shot 2024-04-29 at 9 28 21 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/353ef22e-ed22-4520-9c13-b7e115f44103">
+<img width="250" alt="Screen Shot 2024-04-29 at 9 28 29 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/4158396a-dc10-43fb-916a-96d826843c98">
+
+    </td>
+    <td>
+       
+    
+<img width="699" alt="Screen Shot 2024-04-29 at 9 28 43 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/9a6b471c-2cf6-4201-9980-560562670e81">
+<img width="396" alt="Screen Shot 2024-04-29 at 9 28 53 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/2a5869dc-3d2a-448a-ba70-35af24b04011">
+
+    </td>
+  </tr>
+  <tr>
+    <td align="left">Figure 3 Drink water quality ranked 1-3 and Los Angeles River  
+</td>
+    <td align="left">Figure 4 Median income per city split into 3 categories
+</td>
+  </tr>
+</table>
+
+---
 
 ### Abstract
 
