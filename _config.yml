@@ -1,0 +1,3 @@
+remote_teme: pages-themes/slate@v.0.2.
+plugins:
+- jekyll-remote-theme
