@@ -2,15 +2,26 @@
 
 ### Tables and Figures
 
-<div style="display: flex; justify-content: center;">
-  <img width="500" alt="Screen Shot 2024-04-29 at 9 12 10 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/42d99181-3c17-4b20-b804-41819bf436b6">
-  <img width="150" alt="Screen Shot 2024-04-29 at 9 12 41 PM" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/ffd4dbb7-5306-4b7a-b246-c0ebf035b18e">
-</div>
 
-###### Figure 1 Air quality represented in PM2.5
-
----
+<table width="100%">
+  <tr>
+      <td><img width="415" alt="Figure 1 Air quality represented in PM2.5" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/42d99181-3c17-4b20-b804-41819bf436b6">
+  <img width="80" alt="Figure 1 Air quality represented in PM2.5" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/ffd4dbb7-5306-4b7a-b246-c0ebf035b18e"></td>
+  <td><img width="415" alt="Figure 2 Drinking Water quality ranked from a scale of 1-3" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/b1a35617-261a-4338-8a68-958dff13b980">
+  <img width="80" alt="Figure 2 Drinking Water quality ranked from a scale of 1-3" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/760b49f5-266e-4020-9a00-30cae4db74e5"></td>
+  </tr>
+  <tr>
+    <td align="left">Figure 1 Air quality represented in PM2.5
+</td>
+    <td align="left">Figure 2 Drinking Water quality ranked from a scale of 1-3
+</td>
+  </tr>
+</table>
+ 
+ 
 <img width="450" alt="image" src="https://github.com/leilaghazvini/leilaghazvini.github.io/assets/168471501/69b0a979-afd8-4315-a5a1-a92c3ea898cc">
+
+ ---
 
 ### Abstract
 
